@@ -1,5 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Demonstração
+Link para visualizar/testar: 
+https://carlosmorais.github.io/Calculadora-com-React/build
+<br><br>
+<a href="https://carlosmorais.github.io/Calculadora-com-React/build" target="_blank">![alt text](build/print.png)</a>
+
 ## Available Scripts
 
 In the project directory, you can run:
